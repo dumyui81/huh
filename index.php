@@ -1,5 +1,5 @@
 <?php  
-require_once "Mail.php";  
+//require_once "Mail.php";  
   
 $from    = "dumyui81@gmail.com";  
 $to      = "dumyui81@gmail.com";  
